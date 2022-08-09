@@ -3,7 +3,7 @@
 ## Getting Started
 
 This repository contains all obligatory and some non compulsory exercise solutions for Algorithms and Data Structures course on
-AGH UST for the field of automation and robotics.
+AGH UST for the field of automatics controll and robotics.
 
 First part (1-7) contains Data structures
 Second part (8-14) contains Algorithms
